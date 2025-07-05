@@ -1,6 +1,4 @@
-# SQLite Project
-
-Aplikasi manajemen data mahasiswa berbasis Flutter dengan penyimpanan lokal menggunakan SQLite.
+# Aplikasi Penghitung Langkah Sederhana
 
 ## Fitur Aplikasi
 - Menggunakan sensor langkah (pedometer) untuk menghitung jumlah langkah secara real-time.
